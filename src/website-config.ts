@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Kenlyn Terai',
-  description: 'Engineer | Coach | Product Manager',
+  description: 'Engineering life and code',
   coverImage: 'img/blog-cover.jpg',
   logo: '',
   lang: 'en',
