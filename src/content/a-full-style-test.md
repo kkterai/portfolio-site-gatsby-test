@@ -1,12 +1,16 @@
 ---
 layout: post
-title: Testing 1-2-3
-image: img/testimg-cover.jpg
+title: Welcome!
+image: img/writing.jpg
 author: Kenlyn
-date: 2019-11-13T07:03:47.149Z
+date: 2019-11-20T07:03:47.149Z
 draft: false
 tags: 
-  - Tests
+  - General
 ---
 
-Content and more content
+Welcome! 
+
+Thanks for your interest in learning more about the technical projects I'll have posted here. :-)
+
+~ Kenlyn
