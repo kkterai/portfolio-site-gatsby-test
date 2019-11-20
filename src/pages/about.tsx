@@ -37,7 +37,16 @@ const About: React.FC = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <p>
-                Hello world!
+              <p>About me? Thanks for asking. I love Web Development, especially when it comes to Javascript, ReactJS, and Rails. My wish is to combine my knowledge and experience to deliver the best results to clients. I also love coffee. In short, I am: </p>
+
+                <p>1. Passionate (I love what I do) 
+                <br />2. Enthusiastic (I want to learn) 
+                <br />3. Skeptical (I think critically) 
+                <br />4. Focused (I have the right attitude)</p>
+
+                <p>I enjoy travel, running, biking, ocean sports, and have had the pleasure of exploring many US States and sixteen other countries. When I’m not looking at a computer screen, you will find me outdoors, spending time with family, or listening to music – maybe even all at once.</p>
+
+                <p>You can find me here and over <a href="https://medium.com/@kenlynterai">there</a>.</p>
               </p>
               <p>
               </p>
