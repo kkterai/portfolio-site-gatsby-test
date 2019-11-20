@@ -11,6 +11,6 @@ tags:
 
 Welcome! 
 
-Thanks for your interest in learning more about the technical projects I'll have posted here. :-)
+Thanks for your interest in learning more about technical projects I'll have posted here. :-)
 
 ~ Kenlyn
