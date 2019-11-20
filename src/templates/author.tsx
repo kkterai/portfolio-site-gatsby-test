@@ -21,7 +21,7 @@ import {
   SocialLink,
 } from '../styles/shared';
 import { PageContext } from './post';
-import Facebook from '../components/icons/facebook';
+// import Facebook from '../components/icons/facebook';
 import Helmet from 'react-helmet';
 import config from '../website-config';
 import Website from '../components/icons/website';
@@ -94,7 +94,7 @@ interface AuthorTemplateProps {
       id: string;
       website?: string;
       twitter?: string;
-      facebook?: string;
+      // facebook?: string;
       location?: string;
       // eslint-disable-next-line @typescript-eslint/camelcase
       profile_image?: {
@@ -212,7 +212,7 @@ const Author: React.FC<AuthorTemplateProps> = props => {
                     <Twitter />
                   </a>
                 )}
-                {author.facebook && (
+                {/* {author.facebook && (
                   <a
                     className="social-link-fb"
                     css={SocialLink}
@@ -223,7 +223,7 @@ const Author: React.FC<AuthorTemplateProps> = props => {
                   >
                     <Facebook />
                   </a>
-                )}
+                )} */}
                 {/* TODO: RSS for author */}
                 {/* <a
                   css={SocialLink} className="social-link-rss"
@@ -268,7 +268,6 @@ export const pageQuery = graphql`
       website
       twitter
       bio
-      facebook
       location
       profile_image {
         childImageSharp {
