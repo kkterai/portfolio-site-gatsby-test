@@ -59,14 +59,12 @@ export interface SubscribeProps {
 }
 
 const Subscribe: React.FC<SubscribeProps> = props => {
-  return (
-    null
-    // <SubscribeFormSection>
-    //   <h3 css={SubscribeFormTitle}>Subscribe to {props.title}</h3>
-    //   <p>Get the latest posts delivered right to your inbox</p>
-    //   <SubscribeForm />
-    // </SubscribeFormSection>
-  );
+  return null;
+  // <SubscribeFormSection>
+  //   <h3 css={SubscribeFormTitle}>Subscribe to {props.title}</h3>
+  //   <p>Get the latest posts delivered right to your inbox</p>
+  //   <SubscribeForm />
+  // </SubscribeFormSection>
 };
 
 export default Subscribe;
